@@ -1258,21 +1258,21 @@ body {
     margin-top: 10px;
   }
   .hero-write{
-    padding-top: 5%;
+    padding-top: 2%;
   }
   .hero-write h1{
     font-size: 40px;
     padding-bottom: 5%;
   }
   .hero-write p{
-    padding-bottom: 5%;
+    padding-bottom: 2%;
   }
   .box{
     margin-top: 1px;
-    height: 10000%;
+    /* height: 10000%; */
   } 
   .list{
-    padding-top: 10px;
+    padding-top: 8px;
     gap: 10px;
   }
   .box{
